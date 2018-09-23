@@ -1,6 +1,9 @@
 # hw02-integrations-tianyizhou1222
 hw02-integrations-tianyizhou1222 created by GitHub Classroom
 
+Homeworks were first uploaded in repository HW02_tianyi, below is the README file in that repo.
+
+
 9.19 upload challenge problem 1.1 in .ipynb and .mlx
 
 9.23 upload HW02 in .m and .ipynb
